@@ -5,15 +5,15 @@ This repo includes everything from 📘 course notes and 📝 practice problems 
 
 ## 🧠 Topics Covered
 
-- 🐍 Python basics & syntax
-- 🔢 Data types and variables
-- 🔁 Loops & control flow
-- 🧮 Functions
-- 📂 File handling
-- ⚠️ Exception handling
-- 🧱 Object-Oriented Programming (OOP)
-- 📦 Modules and Packages
-- 🛠️ Standard & external libraries
+- 🐍 Python basics & syntax  
+- 🔢 Data types and variables  
+- 🔁 Loops & control flow  
+- 🧮 Functions  
+- 📂 File handling  
+- ⚠️ Exception handling  
+- 🧱 Object-Oriented Programming (OOP)  
+- 📦 Modules and Packages  
+- 🛠️ Standard & external libraries  
 
 ## 🧰 Tools & Technologies
 
@@ -21,9 +21,10 @@ This repo includes everything from 📘 course notes and 📝 practice problems 
 - VS Code / Jupyter Notebook 💻  
 - Git & GitHub 🌐  
 
-## 🎓 About GUVI
+## 📚 About the Course
 
-[GUVI](https://www.guvi.in) is an IIT-Madras incubated EdTech platform offering industry-relevant tech courses in vernacular languages.
+This repository is based on the **Python Programming course (in Tamil)** offered by GUVI.  
+🔗 [View Course on GUVI](https://www.guvi.in/courses/tamil/programming/python/)
 
 ## 📄 License
 
